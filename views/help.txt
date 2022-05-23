@@ -1,0 +1,13 @@
+<!-- <h2>Hi <%= name%></h2>
+    <%
+        let lis = ''
+        for(let i=0;i<products.length; i++){
+            lis+ = '<li>${products[i]}</li>'
+        }
+
+        %>
+        <ul>
+            <% for(let i=0;i<prices.length; i++){ %>
+              <li><%= prices[i]%></li> 
+           <%}%> 
+           </ul> -->
